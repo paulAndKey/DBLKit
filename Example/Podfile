@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DBLKit_Example' do
+  pod 'DBLKit', :path => '../'
+
+  target 'DBLKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
