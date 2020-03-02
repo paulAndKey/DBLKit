@@ -1,4 +1,5 @@
 # DBLKit
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/paulAndKey/DBLKit.svg?style=flat)](https://travis-ci.org/paulAndKey/DBLKit)
 [![Version](https://img.shields.io/cocoapods/v/DBLKit.svg?style=flat)](https://cocoapods.org/pods/DBLKit)
@@ -27,3 +28,6 @@ paulAndKey, pauldongbaolong@163.com
 ## License
 
 DBLKit is available under the MIT license. See the LICENSE file for more info.
+=======
+DBLKit扩展
+ 

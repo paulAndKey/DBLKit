@@ -1,0 +1,22 @@
+{
+  "name": "DBLKit",
+  "version": "0.1.0",
+  "summary": "A short description of DBLKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/paulAndKey/DBLKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "paulAndKey": "pauldongbaolong@163.com"
+  },
+  "source": {
+    "git": "https://github.com/paulAndKey/DBLKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBLKit/Classes/**/*"
+}
